@@ -1,0 +1,173 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 50px;
+   
+}
+h2{
+    font-size: 40px;
+    font-weight: 500px;
+    color: rgb(48, 56, 56);
+}
+p{
+    font-size: 17px;
+    color: dimgray;
+    margin-bottom: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    
+  
+   
+        
+}
+.name{
+    color:#ec4c7a;
+}
+
+#FirstPera{
+    margin-top: 250px;
+   padding-left: 12%;
+}
+#FirstImage{
+    margin-top: 150px;
+    
+}
+.HireMeLink{
+    text-decoration: none;
+    color: white;
+    width: 10px;
+    height: 4px;
+    background-color:#ec4c7a ;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-size: 12px;
+    
+
+}
+
+
+.half-width img{
+    width: 100%;
+    
+}
+.FirstSection{
+    background-image: url("images/header-bg.png" );
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px;
+    padding-bottom: 580px;
+    
+
+    
+}
+#SecondImage{
+    margin-left: 10%;
+    margin-top: 100px;
+}
+#SecondPera{
+    margin-left: 8%;
+    margin-top: 250px;
+}
+.DownloadResume{
+    text-decoration: none;
+    color: white;
+    width: 10px;
+    height: 7px;
+    background-color:#ec4c7a ;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-size: 12px;
+    
+
+
+}
+.SecondSection{
+
+    background-image: url("images/biography-bg.png");
+    height: 300px;
+    padding-bottom: 580px;
+
+}
+#LatestWork{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.ImageDev{
+    margin-left: 10%
+}
+.WorkImage{
+    width: 29%;
+    height: 70%;
+   float: left;
+    margin-right: 2%;
+}
+#ThirdSection{
+    background-image: url("images/latest-work-bg.png");
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding-bottom: 200px;
+   
+}
+#footerheading{
+    margin-top: 80px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.footerheading3{
+    text-align: center;
+}
+.footerheading4{
+    text-align: center;
+    color: dimgray;
+}
+.footerparagraph{
+    width: 370px;
+    
+    margin-left:500px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 65px;
+}
+.footerparagraph2{
+    
+        background-color: #ec4c7a;
+        width: 40%;
+        color: white;
+        text-align: center;
+        font-size: 12px;
+        padding-top: 25px;
+        padding-bottom: 40px;
+        padding-left: 55px;
+        padding-right: 55px;
+        border-radius: 10px;
+        
+}
+.mail{
+    font-size: 30px;
+    
+    
+}
+.footerlink{
+    text-decoration: none;
+}
+.footerdiv{
+
+    margin-left: 480px;
+    padding-bottom: 100px;
+}
+.fotterlastparagraph{
+    text-align: center;
+    color: dimgray;
+
+}
+footer{
+    background-image: url(images/footer-bg.png);
+    background-size: 100% 100%;
+}
